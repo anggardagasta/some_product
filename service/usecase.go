@@ -1,6 +1,6 @@
 package service
 
-import "github.com/anggardagasta/mini_wallet/models"
+import "github.com/anggardagasta/some_product/models"
 
 type IServiceUsersUseCase interface {
 	RegisterUser(form models.FormRegister) (result models.AuthResult, err error)

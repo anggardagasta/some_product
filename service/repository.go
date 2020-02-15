@@ -1,6 +1,6 @@
 package service
 
-import "github.com/anggardagasta/mini_wallet/models"
+import "github.com/anggardagasta/some_product/models"
 
 type IServiceUsersRepository interface {
 	GetUserByUsername(username string) (result models.GetUserScanner, err error)

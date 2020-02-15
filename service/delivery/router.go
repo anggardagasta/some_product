@@ -1,7 +1,7 @@
 package delivery
 
 import (
-	"github.com/anggardagasta/mini_wallet/service"
+	"github.com/anggardagasta/some_product/service"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/cors"

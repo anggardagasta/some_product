@@ -3,8 +3,8 @@ package delivery
 import (
 	"encoding/json"
 	"errors"
-	"github.com/anggardagasta/mini_wallet/models"
-	"github.com/anggardagasta/mini_wallet/service/repository/response"
+	"github.com/anggardagasta/some_product/models"
+	"github.com/anggardagasta/some_product/service/repository/response"
 	"github.com/asaskevich/govalidator"
 	"github.com/dgrijalva/jwt-go"
 	"net/http"

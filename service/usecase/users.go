@@ -3,9 +3,9 @@ package usecase
 import (
 	"encoding/base64"
 	"errors"
-	"github.com/anggardagasta/mini_wallet/models"
-	"github.com/anggardagasta/mini_wallet/service"
-	"github.com/anggardagasta/mini_wallet/service/repository/constant"
+	"github.com/anggardagasta/some_product/models"
+	"github.com/anggardagasta/some_product/service"
+	"github.com/anggardagasta/some_product/service/repository/constant"
 	"github.com/dgrijalva/jwt-go"
 	"os"
 	"time"

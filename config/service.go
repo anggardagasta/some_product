@@ -1,9 +1,9 @@
 package config
 
 import (
-	"github.com/anggardagasta/mini_wallet/service/delivery"
-	"github.com/anggardagasta/mini_wallet/service/repository/mysql"
-	"github.com/anggardagasta/mini_wallet/service/usecase"
+	"github.com/anggardagasta/some_product/service/delivery"
+	"github.com/anggardagasta/some_product/service/repository/mysql"
+	"github.com/anggardagasta/some_product/service/usecase"
 )
 
 func (c *Config) InitService() error {

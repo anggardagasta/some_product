@@ -2,8 +2,8 @@ package mysql
 
 import (
 	"database/sql"
-	"github.com/anggardagasta/mini_wallet/models"
-	"github.com/anggardagasta/mini_wallet/service"
+	"github.com/anggardagasta/some_product/models"
+	"github.com/anggardagasta/some_product/service"
 )
 
 type serviceUsersRepository struct {

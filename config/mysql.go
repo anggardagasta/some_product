@@ -29,7 +29,7 @@ func (c *Config) InitMysql() error {
 	password := Env(DBPwd, "anggarda")
 	host := Env(DBHost, "127.0.0.1")
 	port := Env(DBPort, "3306")
-	dbName := Env(DBName, "mini_wallet")
+	dbName := Env(DBName, "some_producte;RQHIO")
 
 	dataSource := user + ":" + password + "@tcp(" + host + ":" + port + ")/" + dbName + "?parseTime=true"
 

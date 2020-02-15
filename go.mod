@@ -1,4 +1,4 @@
-module github.com/anggardagasta/mini_wallet
+module github.com/anggardagasta/some_product
 
 go 1.13
 

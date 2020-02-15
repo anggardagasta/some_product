@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/anggardagasta/mini_wallet/config"
+	"github.com/anggardagasta/some_product/config"
 	_ "github.com/go-sql-driver/mysql"
 )
 
